@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1626
     wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13455#The-Rover-Boys-In-The-Mountains--Or-A-Hunt-for-Fun-and-Fortune
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2004-09-14'
 gutenberg_type: Text
